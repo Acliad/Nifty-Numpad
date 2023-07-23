@@ -1,0 +1,72 @@
+References,Value,DigiKey PN,Quantity Per PCB,Footprint,Datasheet
+C118-C119,27pF,1276-2247-1-ND,2,C_0603_1608Metric,~
+"C104-C114,  C117,  C201-C233",100nF,1276-1006-1-ND,45,C_0603_1608Metric,~
+"C102-C103,  C115-C116",1uF,1276-6524-1-ND,4,C_0603_1608Metric,~
+C101,10uF,490-10475-1-ND,1,C_0603_1608Metric,~
+D301-D333,1N4148,4530-1N4148WCT-ND,33,D_SOD-123,https://media.digikey.com/pdf/Data%20Sheets/Anbon%20Semi%20PDFs/1N4148W.pdf
+D201-D233,SK6812-E,1528-4960-ND,33,LED_SK6812-E_3.2x2.8mm,https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf
+J101,SWD,2057-PH1-05-UA-ND,1 (DNF),PinHeader_1x05_P2.54mm_Vertical,~
+J103,UART,2057-PH1-04-UA-ND,1 (DNF),PinHeader_1x04_P2.54mm_Vertical,~
+J102,USB-C,2073-USB4105-GF-A-060CT-ND,1,USB_C_Receptacle_GCT_USB4105-GF-A-060,https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+R105-R106,27,CR0603-FX-27R0ELFCT-ND,2,R_0603_1608Metric,~
+R104,330,CR0603-FX-3300ELFCT-ND,1,R_0603_1608Metric,~
+R103,1k,RNCP0603FTD1K00CT-ND,1 (DNF),R_0603_1608Metric,~
+R108,1k,RNCP0603FTD1K00CT-ND,1,R_0603_1608Metric,~
+R101-R102,5.1k,CR0603-FX-5101ELFCT-ND,2,R_0603_1608Metric,~
+R107,10k,RNCP0603FTD1K00CT-ND,1,R_0603_1608Metric,~
+SW311,*,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW318,+,,1,SW_Hotswap_Kailh_MX_2.00u_90deg,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW312,-,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW333,.,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW310,/,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW332,0,,1,SW_Hotswap_Kailh_MX_2.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW326,1,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW327,2,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW328,3,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW321,4,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW322,5,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW323,6,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW315,7,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW316,8,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW317,9,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW329,Enter,,1,SW_Hotswap_Kailh_MX_2.00u_90deg,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW303,F13,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW304,F14,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW305,F15,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW306,F16,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW301,M1,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW320,M10,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW325,M11,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW331,M12,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW307,M2,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW313,M3,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW319,M4,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW324,M5,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW330,M6,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW302,M7,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW308,M8,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW314,M9,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW309,Num Toggle,,1,SW_Hotswap_Kailh_MX_1.00u,https://www.kailhswitch.com/Content/upload/pdf/202215927/CPG151101S11-16.pdf?rnd=543
+SW101-SW102,PTS636 SL43 SMTR LFS,CKN12309-1-ND,2 (DNF),SW-PUSH-6x3.5mm_CK-PTS636SL43x_HandSolder,https://www.ckswitches.com/media/2779/pts636.pdf
+U102,CM1213A−02Sx,CM1213A-02SROSCT-ND,1,SOT-143,https://www.onsemi.com/pdf/datasheet/cm1213a-d.pdf
+U101,MIC5366-3.3YC5,576-3215-1-ND,1,SOT-353_SC-70-5,http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+U104,RP2040,2648-SC0914(13)CT-ND,1,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf
+U103,SN74LVC1T45DCK,31-74LVC1T45DW-7CT-ND,1,SOT-363_SC-70-6,http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf
+U105,W25Q40CLSNIG,W25Q40CLSNIG-ND,1,SOIC-8_5.275x5.275mm_P1.27mm,http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf
+Y101,ABLS-12.000MHZ-B4-T,535-10218-1-ND,1,Crystal_SMD_HC49-SD,https://abracon.com/Resonators/ABLS.pdf
+
+
+
+
+
+Component Groups:,55
+Component Count:,170
+Fitted Components:,165
+Number of PCBs:,1
+Total components:,165
+Schematic Version:,0
+Schematic Date:,2023-06-10
+PCB Variant:,default
+BoM Date:,"2023 July 09, Sunday 08:52:24"
+Schematic Source:,Nifty Numpad.kicad_sch
+KiCad Version:,Eeschema 7.0.5-0
