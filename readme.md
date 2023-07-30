@@ -8,7 +8,7 @@ The main features are:
 - Backlit keys
 - 3D printable case (FDM or resin)
 
-![render](Render%20(Blue,%20SS%20screws).png "Render of Nifty Numpad")
+![render](Docs/Render%20(Blue,%20SS%20screws).png "Render of Nifty Numpad")
 
 # Contents
 - [Contents](#contents)
