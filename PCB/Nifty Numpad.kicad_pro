@@ -555,7 +555,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../Mechanical/PCB_Model.STEP",
+      "step": "../Mechanical/PCB_Model_rev1.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": "/Users/isaacrex/KiCad/Pages/irex_Logo-Text-Narrow.kicad_wks"
@@ -608,5 +608,7 @@
       "Key Matrix"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "REV": "1"
+  }
 }

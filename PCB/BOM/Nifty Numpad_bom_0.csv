@@ -54,19 +54,3 @@ U104,RP2040,2648-SC0914(13)CT-ND,1,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,https://d
 U103,SN74LVC1T45DCK,31-74LVC1T45DW-7CT-ND,1,SOT-363_SC-70-6,http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf
 U105,W25Q40CLSNIG,W25Q40CLSNIG-ND,1,SOIC-8_5.275x5.275mm_P1.27mm,http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf
 Y101,ABLS-12.000MHZ-B4-T,535-10218-1-ND,1,Crystal_SMD_HC49-SD,https://abracon.com/Resonators/ABLS.pdf
-
-
-
-
-
-Component Groups:,55
-Component Count:,170
-Fitted Components:,165
-Number of PCBs:,1
-Total components:,165
-Schematic Version:,0
-Schematic Date:,2023-06-10
-PCB Variant:,default
-BoM Date:,"2023 July 09, Sunday 08:52:24"
-Schematic Source:,Nifty Numpad.kicad_sch
-KiCad Version:,Eeschema 7.0.5-0

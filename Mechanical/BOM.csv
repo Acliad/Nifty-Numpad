@@ -1,0 +1,21 @@
+Part,Qty,Suggested Source,Comment
+M2.6x10mm Plastic Tapping Screw,16,"https://www.aliexpress.us/item/3256803049178065.html?spm=a2g0o.order_detail.order_detail_item.3.7913f19cQly0Lt&gatewayAdapt=glo2usa
+
+https://www.mcmaster.com/90485A432","Use to screw top piece to base piece.
+
+You could get stainless or black depending on your preference. Note the McMaster Carr screws are actually M2.5; these are slightly smaller than the Ali Express screws and I have not tried them"
+M2.6x5mm Plastic Tapping Screw,5,"https://www.aliexpress.us/item/3256803049178065.html?spm=a2g0o.order_detail.order_detail_item.3.7913f19cQly0Lt&gatewayAdapt=glo2usa
+
+https://www.mcmaster.com/90485A428","Use to screw plate/PCB to base piece.
+
+You could get stainless or black depending on your preference. Note the McMaster Carr screws are actually M2.5; these are slightly smaller than the Ali Express screws and I have not tried them"
+Rubber Feet,4,https://www.mcmaster.com/95495K15/,Attach to bottom of base
+Mounting Plate,1,3D Print,See the readme for more details
+PCB Assembly,1,JLC PCB and self assembly,See the electrical BOM and readme for more details
+Switches,33,"Microcenter
+
+Any keyboard part supplier",Use your favorite Cherry MX compatible switches. Microcenter tends to have good prices on these if you have a local store. Make sure you get ones with a clear top if you're using the LEDs!
+Keycaps,33,https://www.aliexpress.us/item/3256801609324454.html?spm=a2g0o.order_list.order_list_main.18.27561802CbfaCa&gatewayAdapt=glo2usa,"You’ll have more options if you don’t look for backlit keycaps, but choose what you want!"
+2u Plate-mount Stabilizers,3,"https://www.aliexpress.us/item/3256801595153884.html?spm=a2g0o.productlist.main.13.3bb825599AwWnV&algo_pvid=729ee454-13a5-4d9e-b726-9d27cd58f645&algo_exp_id=729ee454-13a5-4d9e-b726-9d27cd58f645-6&pdp_npi=3@dis!USD!9.98!8.98!!!9.98!!@2101e9d216907327810404728e8b4a!12000030083953571!sea!US!2054184680&curPageLogUid=UpkIp3myNO7D
+
+https://www.amazon.com/dp/B0978PWJG9?psc=1&ref=ppx_yo2ov_dt_b_product_details",These are also pretty generic and available from most keyboard parts suppliers. This design uses plate-mount stabs without the nubs on the bottom (but you can always clip these off). 
