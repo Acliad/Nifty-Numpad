@@ -1,3 +1,4 @@
+# Helper script for generating QMK's required position array in RGB matrix.
 
 import numpy as np
 
